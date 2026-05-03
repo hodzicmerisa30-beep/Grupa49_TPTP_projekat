@@ -1,6 +1,6 @@
 # &#x1F6CD; Tema projekta: Online Shop Modni Brend
 # &#x1F465; Članovi grupe:
-Merisa Hodžić -GitHub: hodzicmerisa30--beep
+Merisa Hodžić -GitHub: hodzicmerisa30-beep
 
 Meliha Mujkanović -GitHub: volimkafuu
 # &#x1F4CB;Opis projekta:
